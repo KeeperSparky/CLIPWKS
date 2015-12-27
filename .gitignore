@@ -17,6 +17,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Clipper specific modules
+*.LIB
+*.NG
+*.OBJ
+
 # =========================
 # Operating System Files
 # =========================
